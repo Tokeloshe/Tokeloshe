@@ -26,7 +26,7 @@ All of it is free to use. No ads, no tracking.
 ## How I work
 
 - One person, evenings and weekends, real hardware on the bench.
-- Releases are tested before they ship, and the docs describe what the thing actually does.
+- Docs that describe what the thing actually does, checked against the code.
 - Bug reports get answers. Sponsors' reports get them first.
 
 ## Keep it going

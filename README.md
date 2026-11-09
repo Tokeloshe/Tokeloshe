@@ -1,4 +1,4 @@
-# James Honiball · KC3TFZ
+# James Honiball
 
 I am an experimenter. I build things in the evenings and give them away.
 
@@ -39,4 +39,4 @@ Everything here is paid for out of my own pocket. If something I made earned a p
   <a href="https://buymeacoffee.com/Tokeloshe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
 </p>
 
-<p align="center"><sub>In memory of my grandfather, George Thomas Honiball, ZS6NE, who built things that worked. 73.</sub></p>
+<p align="center"><sub>In memory of my grandfather, George Thomas Honiball, who built things that worked.</sub></p>
